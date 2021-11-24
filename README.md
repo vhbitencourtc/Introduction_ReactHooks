@@ -1,4 +1,4 @@
-# <p align="center">:mortar_board: DIO - Curso :mortar_board:</p>
+# <p align="center">:mortar_board: DIO - Cursos :mortar_board:</p>
 # <p align="center">:computer: React Hooks - States & Effects :computer:</p>
 ### :balloon:Tecnologias
 ---
